@@ -1,0 +1,134 @@
+            body{
+                padding-top:50px;
+            }
+            .col_white_amrc { color:#FFF;}
+            footer { 
+                width:100%; 
+                background-color:#263238; 
+                min-height:150px; 
+                padding:10px 0px 25px 0px ;
+                }
+            .pt2 { 
+                padding-top:40px ; 
+                margin-bottom:20px ;
+                }
+            footer p { 
+                font-size:13px; 
+                color:#CCC; 
+                padding-bottom:0px; 
+                margin-bottom:8px;
+                }
+            .mb10 { 
+                padding-bottom:15px ;
+                }
+            .footer_ul_amrc { 
+                margin:0px ; 
+                list-style-type:none ;
+                font-size:14px; 
+                padding:0px 0px 10px 0px ;
+                }
+            .footer_ul_amrc li {
+                padding:0px 0px 5px 0px;
+                }
+            .footer_ul_amrc li a{ 
+                color:#CCC;
+                }
+            .footer_ul_amrc li a:hover{
+                color:#fff; 
+                text-decoration:none;
+                }
+            .fleft { 
+                float:left;
+                }
+            .padding-right { 
+                padding-right:10px; 
+                }
+            .footer_ul2_amrc {
+                margin:0px; 
+                list-style-type:none; 
+                padding:0px;
+                }
+            .footer_ul2_amrc li p { 
+                display:table; 
+                }
+            .footer_ul2_amrc li a:hover { 
+                text-decoration:none;
+                }
+            .footer_ul2_amrc li i { 
+                margin-top:5px;
+                }
+            .bottom_border { 
+                border-bottom:1px solid #323f45; 
+                padding-bottom:20px;
+                }
+            .foote_bottom_ul_amrc {
+                list-style-type:none;
+                padding:0px;
+                display:table;
+                margin-top: 10px;
+                margin-right: auto;
+                margin-bottom: 10px;
+                margin-left: auto;
+                }
+            .foote_bottom_ul_amrc li { display:inline;}
+            .foote_bottom_ul_amrc li a { color:#999; margin:0 12px;}
+
+            .social_footer_ul { 
+                display:table; 
+                margin:15px auto 0 auto; 
+                list-style-type:none;  
+                }
+            .social_footer_ul li { 
+                padding-left:20px;
+                padding-top:10px; 
+                float:left; 
+                }
+            .social_footer_ul li a { 
+                color:#CCC; border:1px solid #CCC; 
+                padding:8px;
+                border-radius:50%;
+                }
+            .social_footer_ul li i {  
+                width:20px; 
+                height:20px; 
+                text-align:center;
+                }
+            .centercon{
+                align-content: center;
+                justify-content: center;
+                text-align: center;
+            }
+            .inputformat{
+                margin-top:10px;
+                margin-bottom: 10px;
+                width: 100%;
+                background-color: rgba(237, 237, 237, 0.49);
+                padding-left: 5px;
+                border-bottom: 1px solid black;
+                border-top:none;
+                border-right:none;
+                border-left:none;
+                padding: 5px 0px 5px 5px;
+            }
+            .submitformat{
+                margin: 20px 0px 20px 0px;
+                padding: 10px 10px 10px 10px;
+                background-color: #1e801e;
+                border-radius: 500px;
+                color: white;
+                width:20%;
+                box-shadow: 2px 2px 2px grey;
+            }
+            .concepts{
+                font-size:20px;
+                color: #155f30;
+            }
+            .morals{
+                background-color:#c6c6c6;
+            }
+            .moraltext{
+                text-align: left;
+            }
+            .logo{
+                font-size: 50px;
+            }

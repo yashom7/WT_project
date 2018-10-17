@@ -1,0 +1,19 @@
+.carImg{
+    width: 100%;
+    height: 800px;
+    align-content: stretch;
+    filter: blur(4px);
+}
+.navbar-brand {
+    font-family:'Tangerine', cursive;
+    font-size: 50px;
+    padding: 0%;
+    line-height: 1rem;
+}
+
+.carousel-caption h5 {
+    padding-bottom: 7em;
+    font-family: 'Lato', sans-serif;
+    font-size: 3rem;
+    letter-spacing: 2%;
+}
